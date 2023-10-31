@@ -1,3 +1,5 @@
+CONTAINS ONLY ANDROID NATIVE CHANGES
+
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://bitbucket.org/ios-external/podspecs.git'
 source 'https://bitbucket.org/ios-external/dependencyspecs.git'
